@@ -27,7 +27,7 @@ Most estimation goes badly wrong because it focusses on estimating the wrong thi
 After this session:
 
 * You will have a number of tools that will help you estimate time, complexity, value, and other valuable concepts to shape your decision making.
-* You will be able to understand when 
+* You will be able to understand when to avoid estimation entirely
 * You'll understand when to use useful estimation techniques at the right times.
 
 
